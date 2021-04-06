@@ -1,7 +1,5 @@
 ## Features
 
-https://i.ibb.co/phHwZ1r/Frame-14.png
-
 - User Management (Sign In/ Register)
 - Now Playing Movies
 - Select Cinema
