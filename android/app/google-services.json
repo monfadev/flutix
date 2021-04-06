@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25055535831",
+    "project_id": "flutix-e3192",
+    "storage_bucket": "flutix-e3192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25055535831:android:67e164ad24e06c20244692",
+        "android_client_info": {
+          "package_name": "com.monfadev.flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25055535831-o1in314buiu9cemjc9rgvmg3mn8rd9ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSoBJ3zaCny4nxpn3AJAgazmlkg-rDTRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25055535831-o1in314buiu9cemjc9rgvmg3mn8rd9ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
