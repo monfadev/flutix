@@ -3,10 +3,10 @@
 - User Management (Sign In/ Register)
 - Now Playing Movies
 - Select Cinema
-- Select Showtimes
+- Select Date
 - Browse Movie by Category
-- E-Wallet (for ticket transaction)
-- Data Collection (genre dan preferred language)
+- E-Wallet (Transaction Buy Ticket)
+- Data Collection (Genre Movie)
 
 ## Techstack
 
