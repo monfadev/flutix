@@ -42,6 +42,6 @@
 
 ## Credit
 
-monfadev – [@monfadev](https://instagram.com/monfadev) – mfaauzii@gmail.com
+monfauzi – [@monfadev](https://instagram.com/monfadev) – mfaauzii@gmail.com
 
 [https://github.com/monfauzi](https://github.com/monfauzi/)
