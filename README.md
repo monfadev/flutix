@@ -1,3 +1,9 @@
+# Flutix
+
+> Ticketing on this app for watch movie
+
+<p><img  src="https://i.ibb.co/j4vdCMX/Frame-14.png"/></p>
+
 ## Features
 
 - User Management (Sign In/ Register)
